@@ -1,0 +1,47 @@
+[
+  {
+    "title": "2022 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$23912",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2018 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$12586",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2018 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$22137",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$32415",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2018 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$32439",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  }
+]
