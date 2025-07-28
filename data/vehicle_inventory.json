@@ -1,47 +1,47 @@
 [
   {
-    "title": "2022 Ford Focus",
+    "title": "2022 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$30225",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$19068",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$22740",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Ford Focus",
     "brand": "Ford",
     "model": "Focus",
-    "year": 2022,
+    "year": 2020,
     "comndition": "Used",
-    "price": "$23912",
+    "price": "$22521",
     "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
   },
   {
-    "title": "2018 BMW 320i",
-    "brand": "BMW",
-    "model": "320i",
+    "title": "2018 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
     "year": 2018,
-    "comndition": "New",
-    "price": "$12586",
+    "comndition": "Used",
+    "price": "$29724",
     "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
-  },
-  {
-    "title": "2018 Chevrolet Equinox",
-    "brand": "Chevrolet",
-    "model": "Equinox",
-    "year": 2018,
-    "comndition": "Used",
-    "price": "$22137",
-    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
-  },
-  {
-    "title": "2016 Toyota Corolla",
-    "brand": "Toyota",
-    "model": "Corolla",
-    "year": 2016,
-    "comndition": "Used",
-    "price": "$32415",
-    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
-  },
-  {
-    "title": "2018 Nissan Altima",
-    "brand": "Nissan",
-    "model": "Altima",
-    "year": 2018,
-    "comndition": "New",
-    "price": "$32439",
-    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
   }
 ]

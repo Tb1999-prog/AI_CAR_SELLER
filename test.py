@@ -7,7 +7,7 @@ models = {
     "Toyota": ["Camry", "Corolla", "RAV4"],
     "Nissan": ["Altima", "Rogue", "Sentra"],
     "BMW": ["320i", "330i", "X3"],
-    "Tesla": ["Model 3", "Model Y"],
+    "Tesla": ["Model 3", "Model Y","Cyber Truck"],
     "Ford": ["Fusion", "Escape", "Focus"],
     "Chevrolet": ["Malibu", "Equinox"],
     "Hyundai": ["Elantra", "Tucson"],
