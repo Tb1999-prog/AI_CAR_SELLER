@@ -1,39 +1,2172 @@
 [
   {
-    "title": "2022 Mazda CX-5",
-    "brand": "Mazda",
-    "model": "CX-5",
-    "year": 2022,
+    "title": "2020 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2020,
     "comndition": "New",
-    "price": "$30225",
+    "price": "$28751",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$13827",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2022 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$29151",
     "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
   },
   {
-    "title": "2019 Ford Fusion",
+    "title": "2023 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$15220",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2024 Ford Fusion",
     "brand": "Ford",
     "model": "Fusion",
-    "year": 2019,
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$30398",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2017,
     "comndition": "New",
-    "price": "$19068",
+    "price": "$28861",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2025 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$33305",
     "description": "Electric, fast charging, autopilot, tech-loaded interior."
   },
   {
-    "title": "2019 Ford Fusion",
+    "title": "2017 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$29340",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$13434",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2018 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$32809",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Ford Fusion",
     "brand": "Ford",
     "model": "Fusion",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$31735",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
     "year": 2019,
+    "comndition": "Used",
+    "price": "$23227",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$32212",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2022,
     "comndition": "New",
-    "price": "$22740",
+    "price": "$32903",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2020 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$28822",
     "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$33229",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
   },
   {
     "title": "2020 Ford Focus",
     "brand": "Ford",
     "model": "Focus",
     "year": 2020,
-    "comndition": "Used",
-    "price": "$22521",
+    "comndition": "New",
+    "price": "$16452",
     "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$21099",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2015 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$30100",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2022 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$20913",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2019 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$33081",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2022 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$22793",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$34641",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$27761",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2021 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$32095",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2021 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$15292",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2018 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$33274",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$29360",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$29718",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$26978",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2016 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$24689",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2016 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$24454",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$20524",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2018 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$27756",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$19641",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2017 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$33195",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$12393",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$32459",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$15796",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2018 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$24119",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2017 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$13019",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2016 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$21296",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$16998",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2015 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$29642",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2024 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$12274",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$17999",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$17102",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2020 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$12314",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$17183",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$16482",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$21774",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$26343",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$26814",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$24639",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$31348",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2016 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$27306",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$27267",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$23602",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$18958",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$28342",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$27530",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$34808",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2024 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$13844",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$19451",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$19688",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2021 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$15577",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2016 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$28763",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2023 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$18320",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$18053",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2020 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$31292",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2018 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$21079",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2017 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$19887",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$29716",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$17644",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2024 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$13923",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$14197",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$21337",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2021 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$12432",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$25241",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$27323",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$20455",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2022 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$27021",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2023 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$28324",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$28817",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$33114",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$26101",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2021 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$17216",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$31350",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2023 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$27377",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2015 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$15866",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$25905",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$32142",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$32651",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$17810",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$26903",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$30576",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$30070",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$25386",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$33274",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$24642",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2021 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$30583",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$31193",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2019 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$14759",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$26321",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$23004",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$33904",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2017 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$22443",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2023 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$16140",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2023 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$14842",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$20817",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$30175",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2025 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$23282",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$15555",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2018 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$25367",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2022 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$17802",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$23500",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$12092",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2022 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$19429",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$27786",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2021 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$23667",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$25404",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$25453",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$13073",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$12353",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2019 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$18466",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$17124",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2019 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$34916",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2024 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$13786",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$28321",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$18294",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$34406",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$15700",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2025 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$30056",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$14073",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2015 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$29435",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$23982",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$18443",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2021 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$13173",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2021 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$12603",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2024 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$30524",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2015 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$32517",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2019 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$17493",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$31008",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2019 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$12683",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2021 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$19244",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$21217",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$17021",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$24324",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2017 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$19130",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$26444",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$29589",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2025 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$22861",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2021 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$25152",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2019 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$22264",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2022 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$34884",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2015 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$22708",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2015 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$19878",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2019 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$15462",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$31472",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$33242",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$33266",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$29856",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2018 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$14128",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$14471",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2018 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$15262",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2022 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$21455",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2025 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$24711",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2018 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$26118",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$25843",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$28847",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2015 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$30524",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2023 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$29810",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$31547",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2015 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$18314",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$30252",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$30134",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$16776",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2021 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$13690",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$15091",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$25977",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2023 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$13007",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2023 Honda Accord",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$17987",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$14797",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2016 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$12777",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$28851",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2022 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$29161",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$23851",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$14715",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$20766",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2021 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$32888",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2019 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$22534",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$22323",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$33943",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2025 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$32257",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2017 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$30538",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$13944",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$31227",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$29436",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$15440",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$19668",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2024 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$32450",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$25317",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2022 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$22685",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2023 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$15339",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2019 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$18680",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$29416",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$18304",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$26998",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$18751",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$16689",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$14604",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2015 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$21474",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$27552",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2020 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$32860",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$16549",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$13093",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$27191",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2017 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$17472",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$23919",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2021 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$29746",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2017 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$13067",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$21947",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2016 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$14033",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$14175",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2023 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$17092",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$20749",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$12963",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$29548",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2018 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$27821",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2023 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$21739",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2025 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$20687",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$28491",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$25036",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2019 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$32412",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2017 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$25825",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2022 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$24866",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$15316",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2023 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$14327",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2019 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$18099",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2019 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$33644",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2023 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$26069",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
   },
   {
     "title": "2018 Kia Optima",
@@ -41,7 +2174,979 @@
     "model": "Optima",
     "year": 2018,
     "comndition": "Used",
-    "price": "$29724",
+    "price": "$24734",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$30499",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2015 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$29863",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$19556",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$17819",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2023 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$30635",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$29636",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2017 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$31959",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$21618",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2024 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$23954",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2022 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$27888",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$26667",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$17515",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$31199",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$19401",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$34018",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2019 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$29852",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$33257",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2021 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$16191",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$22862",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2017 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$32657",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$33830",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2019 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$32251",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$22977",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2023 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$20259",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$26001",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$20913",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2019 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$25636",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$29208",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$22570",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$16101",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$15733",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$30496",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2019 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2019,
+    "comndition": "New",
+    "price": "$12293",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$18810",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2021 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$34044",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$28788",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2017 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2017,
+    "comndition": "Used",
+    "price": "$23886",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2025 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$26933",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$27349",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$34382",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2021 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$19632",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$26884",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 Ford Fusion",
+    "brand": "Ford",
+    "model": "Fusion",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$26385",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2018 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$30978",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$14740",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2024 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$15057",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$27357",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2016 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$17976",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2021 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$19840",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2015 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$25783",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2022 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$26340",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2022 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$12368",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2019 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$19149",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$29943",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Kia Optima",
+    "brand": "Kia",
+    "model": "Optima",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$22880",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Ford Focus",
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$29879",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2019 Nissan Rogue",
+    "brand": "Nissan",
+    "model": "Rogue",
+    "year": 2019,
+    "comndition": "Used",
+    "price": "$16793",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2018 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$19759",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$17918",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2025 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$28718",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$18963",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$30075",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2021 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$25805",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$21055",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$28730",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$14508",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$20692",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$20160",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Honda Accord",
+    "brand": "Honda",
+    "model": "Accord",
+    "year": 2015,
+    "comndition": "Used",
+    "price": "$33991",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2022 BMW 320i",
+    "brand": "BMW",
+    "model": "320i",
+    "year": 2022,
+    "comndition": "Used",
+    "price": "$24201",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$16735",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2023 Tesla Cyber Truck",
+    "brand": "Tesla",
+    "model": "Cyber Truck",
+    "year": 2023,
+    "comndition": "New",
+    "price": "$18030",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2017 Toyota RAV4",
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$20360",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2025 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2025,
+    "comndition": "New",
+    "price": "$23870",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2024 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$18731",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2024 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$12488",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2021 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2021,
+    "comndition": "Used",
+    "price": "$32164",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2020 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$22925",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2020,
+    "comndition": "New",
+    "price": "$13191",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2017 Nissan Altima",
+    "brand": "Nissan",
+    "model": "Altima",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$27394",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2025 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$32283",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2025 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$15959",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2023 Ford Escape",
+    "brand": "Ford",
+    "model": "Escape",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$29568",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Mazda CX-5",
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$26369",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 Nissan Sentra",
+    "brand": "Nissan",
+    "model": "Sentra",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$21737",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2016,
+    "comndition": "Used",
+    "price": "$15137",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2015 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$31861",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2016 Kia Sportage",
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$31021",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2025 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$26702",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$29125",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2017 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$32583",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2020 BMW X3",
+    "brand": "BMW",
+    "model": "X3",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$22660",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2022 Mazda Mazda3",
+    "brand": "Mazda",
+    "model": "Mazda3",
+    "year": 2022,
+    "comndition": "New",
+    "price": "$14723",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2023 Tesla Model 3",
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "comndition": "Used",
+    "price": "$26501",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$17846",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2024 Toyota Corolla",
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2024,
+    "comndition": "New",
+    "price": "$20987",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2021 Hyundai Tucson",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$14104",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2020 Honda Civic",
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "comndition": "Used",
+    "price": "$15630",
+    "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
+  },
+  {
+    "title": "2021 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2021,
+    "comndition": "New",
+    "price": "$13882",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2018 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$19950",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2016 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2016,
+    "comndition": "New",
+    "price": "$19578",
+    "description": "Clean title, low mileage, automatic, Bluetooth, rearview camera."
+  },
+  {
+    "title": "2017 Tesla Model Y",
+    "brand": "Tesla",
+    "model": "Model Y",
+    "year": 2017,
+    "comndition": "New",
+    "price": "$16788",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2024 BMW 330i",
+    "brand": "BMW",
+    "model": "330i",
+    "year": 2024,
+    "comndition": "Used",
+    "price": "$29897",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2025 Honda CR-V",
+    "brand": "Honda",
+    "model": "CR-V",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$24190",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2018 Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "comndition": "New",
+    "price": "$12371",
+    "description": "One-owner, premium trim, sunroof, leather seats, lane assist."
+  },
+  {
+    "title": "2025 Toyota Camry",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2025,
+    "comndition": "Used",
+    "price": "$32790",
+    "description": "Electric, fast charging, autopilot, tech-loaded interior."
+  },
+  {
+    "title": "2018 Chevrolet Equinox",
+    "brand": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "comndition": "Used",
+    "price": "$18525",
+    "description": "Certified pre-owned, all-wheel drive, touchscreen, spacious interior."
+  },
+  {
+    "title": "2015 Hyundai Elantra",
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2015,
+    "comndition": "New",
+    "price": "$28134",
     "description": "Turbo engine, navigation system, excellent fuel economy, Apple CarPlay."
   }
 ]

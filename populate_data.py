@@ -1,5 +1,7 @@
 import json
 import random
+import config
+from retriver.embedings import populate_faiss_from_json
 
 brands = ["Honda", "Toyota", "Nissan", "BMW", "Tesla", "Ford", "Chevrolet", "Hyundai", "Kia", "Mazda"]
 models = {
@@ -24,10 +26,10 @@ descriptions = [
 
 inventory = []
 
-for i in range(5):
+for i in range(350):
     brand = random.choice(brands)
     model = random.choice(models[brand])
-    year = random.randint(2015, 2023)
+    year = random.randint(2015, 2025)
     title = f"{year} {brand} {model}"
     condition = random.choice(["Used","New"])
     price = f"${random.randint(12000, 35000)}"
@@ -42,7 +44,8 @@ for i in range(5):
         "description": description
     })
 
-with open("data/vehicle_inventory.json", "w") as f:
+with open(config.data_path, "w") as f:
     json.dump(inventory, f, indent=2)
 
 print("✅ Simulated data saved to data/vehicle_inventory.json")
+populate_faiss_from_json()

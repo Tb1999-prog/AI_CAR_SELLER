@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "status": {
+            "type": "string",
+            "enum": ["VALID", "INVALID"]
+        },
+        "reason": {
+            "type": "string"
+        }
+    },
+    "required": ["status", "reason"]
+}

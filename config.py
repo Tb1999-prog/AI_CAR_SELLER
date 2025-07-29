@@ -1,3 +1,4 @@
+from google import genai
 from google.genai import types
 from google.genai.types import (
     HarmCategory,
@@ -35,3 +36,9 @@ GENERATION_CONFIG = (
         safety_settings=SAFETY_SETTINGS,
     ),
 )
+
+client = genai.Client(api_key="AIzaSyC6_BxvOzwB24K2tj7c70CHr220kpnswjY")
+
+data_path = "data/vehicle_inventory.json"
+EMBED_PATH = "data/faiss_index.index"
+META_PATH = "data/faiss_metadata.pkl"
