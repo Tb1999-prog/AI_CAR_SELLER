@@ -36,24 +36,24 @@ Respond with a recommendation or follow-up questions.
     return response.text
 
 
-if __name__ == "__main__":
-    history=""
-    while True:
-        query = input("\n🚗 User:")
-        history+=f"\nUser : {query}\n"
-        if query.lower() in ["exit", "quit"]:
-            break
-        input_validator_response=input_validator(history)
-        if input_validator_response["status"]=="VALID":
-            reply = generate_response(history)
-        else:
-            reply = "⚠ Please ask a question related to car buying (e.g., price, brand,  or body type)."
-            print("\n🤖 Gemini Assistant:\n", reply)
-            history += f"\n🤖 Gemini Assistant:\n {reply}"
-            continue
+# if __name__ == "__main__":
+#     history=""
+#     while True:
+#         query = input("\n🚗 User:")
+#         history+=f"\nUser : {query}\n"
+#         if query.lower() in ["exit", "quit"]:
+#             break
+#         input_validator_response=input_validator(history)
+#         if input_validator_response["status"]=="VALID":
+#             reply = generate_response(history)
+#         else:
+#             reply = "⚠ Please ask a question related to car buying (e.g., price, brand,  or body type)."
+#             print("\n🤖 Gemini Assistant:\n", reply)
+#             history += f"\n🤖 Gemini Assistant:\n {reply}"
+#             continue
                 
-        output_validator_response = output_validator(reply)
-        if output_validator_response["status"]=="FAIL":
-            reply = "⚠ Sorry, I couldn't generate a reliable answer. Please try again or rephrase your question."
-        history+=f"\nGemini Assistant:\n {reply}"
-        print("\n🤖 Gemini Assistant:\n", reply)
+#         output_validator_response = output_validator(reply)
+#         if output_validator_response["status"]=="FAIL":
+#             reply = "⚠ Sorry, I couldn't generate a reliable answer. Please try again or rephrase your question."
+#         history+=f"\nGemini Assistant:\n {reply}"
+#         print("\n🤖 Gemini Assistant:\n", reply)

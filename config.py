@@ -42,3 +42,4 @@ client = genai.Client(api_key="AIzaSyC6_BxvOzwB24K2tj7c70CHr220kpnswjY")
 data_path = "data/vehicle_inventory.json"
 EMBED_PATH = "data/faiss_index.index"
 META_PATH = "data/faiss_metadata.pkl"
+DATABASE_URL = "sqlite:///./data/chat_history.db"
