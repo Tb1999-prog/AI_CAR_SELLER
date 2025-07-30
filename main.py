@@ -35,6 +35,7 @@ def get_car_recommendation(user_id: str, request: Query):
     response = generate_response(history)
 
     # Step 3: Output validation
+    print("AI Response: ", response)
     output_valid = output_validator(response)
     if output_valid["status"] == "FAIL":
         response="⚠ Sorry, I couldn't generate a reliable answer. Please try again or rephrase your question."

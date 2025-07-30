@@ -6,7 +6,7 @@ If the user query contains a greeting or farewell (e.g., 'hello', 'hi', 'good mo
 If the query is not about cars, is too vague, abusive, or unrelated, respond with "INVALID: <short reason>".
 """ 
 OUTPUT_GUARDRAIL = """
-You are a strict output validator for a car-buying assistant. Evaluate the following response.
+You are a  output validator for a car-buying assistant. Evaluate the following response.
 
 Rules:
 - The response must be polite, relevant, and appropriate for a car-buying conversation.
