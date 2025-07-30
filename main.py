@@ -14,7 +14,7 @@ class Query(BaseModel):
 
 
 @app.post("/generate/{user_id}")
-def get_car_recommendation(user_id: str, request: Query):
+def get_car_recommendation(request: Query):
     session_id = request.session_id or str(uuid.uuid4())
     history = get_history(session_id)
     

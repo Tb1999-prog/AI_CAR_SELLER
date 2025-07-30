@@ -1,5 +1,3 @@
-# database.py
-
 from sqlalchemy import Column, Integer, String, Text, create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 import config

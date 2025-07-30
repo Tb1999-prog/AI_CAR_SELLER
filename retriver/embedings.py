@@ -5,7 +5,6 @@ import pickle
 import os
 import json
 import config
-import time
 
 
 def row_to_text(row):
