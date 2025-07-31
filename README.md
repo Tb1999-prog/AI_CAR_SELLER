@@ -12,6 +12,8 @@ An AI-powered conversational assistant that helps users find the best car deals 
 - Custom tools for finance calculations and fallback handling
 - Streamlit frontend and FastAPI backend with streaming
 
+---
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -34,6 +36,19 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
+
+
+### 4. Set you API_KEY
+
+set you gemini api key in config
+
+```env
+API_KEY = "#YOUR_API_KEY"
+```
+
+
+---
+
 ## Running the Application
 
 ### Step 1: Start the Backend (FastAPI)
@@ -51,6 +66,100 @@ streamlit run app.py
 ```
 
 Visit: [http://localhost:8501](http://localhost:8501)
+
+---
+
+## Project Structure
+
+```
+AI CAR SELLER/
+├── data/
+│   ├── chat_history.db
+│   ├── fais_index.index
+│   ├── fais_metadata.pkl
+│   └── vehicle_inventory.json
+├── db/
+│   └── history.py
+├── generator/
+│   ├── genrate.py
+├── prompts/
+│   ├── generator.py
+│   └── guardrail.py
+├── retriver/
+│   └── embedings.py
+├── schemas/
+│   ├── input_guardrail.json
+│   └── output_guardrail.json
+├── utils/
+│   └── guardrail.py
+├── app.py
+├── config.py
+├── main.py
+├── populate_data.py
+├── README.md
+└── requirments.txt
+```
+
+---
+
+## Features
+
+- 🧠 **AI-powered car search** using natural language input.
+- 🔄 **Retriever-Generator pipeline** for relevant and personalized suggestions.
+- 🛡️ **Guardrails** to handle inappropriate, irrelevant, or harmful queries.
+- 💬 **Persistent chat history** using SQLAlchemy and a local database.
+- 📦 **FAISS** for vector-based car inventory retrieval.
+- 🎯 **Streamlined UI** via Streamlit and backend via FastAPI.
+
+---
+
+## Tech Stack
+
+| Component       | Technology                     |
+| --------------- | ------------------------------ |
+| Backend API     | FastAPI                        |
+| Frontend UI     | Streamlit                      |
+| Vector Storage  | FAISS                          |
+| Language Model  | Gemini via Google GenAI SDK    |
+| Chat History DB | SQLAlchemy (SQLite/PostgreSQL) |
+| Python Version  | 3.10+                          |
+
+---
+
+## Data
+
+* The assistant uses `data/vehicle_inventory.json` as its car database.
+* The JSON data is parsed and loaded into FAISS and optionally queried using SQLAlchemy.
+
+---
+
+## Approach
+
+This AI assistant uses a modular, retrieval-augmented generation (RAG) pipeline consisting of:
+
+### 1. **Retriever**
+
+- Filters relevant car options based on user intent.
+- Uses FAISS for fast similarity search on embedded car inventory data.
+- SQLAlchemy can be used for structured database filtering.
+
+### 2. **Generator**
+
+- Converts filtered results into natural, conversational responses.
+- Directly uses the Gemini model from Google GenAI SDK.
+- Handles vague or open-ended queries with clarifying questions.
+
+### 3. **Guardrails**
+
+- Validates both user input and model output.
+- Ensures safe, non-offensive, relevant interactions.
+- Still responds meaningfully to greetings or casual conversation (e.g., "Hi", "Thanks").
+
+### 4. **Persistence**
+
+* Maintains **per-session chat history** using **SQLAlchemy** for structured and persistent storage.
+* All user and assistant messages are saved in a **relational database** for future retrieval and session continuity.
+  ---------------------------------------------------------------------------------------------------------------
 
 ## Sample Conversation Log
 
@@ -90,33 +199,13 @@ Price: $23,227
 Details: If you're looking for a touch more luxury, this one's a fantastic find. It's a one-owner vehicle in a premium trim, featuring a sunroof, leather seats, and advanced safety features like lane assist.
 ```
 
-## Project Structure
+---
 
-```
-AI CAR SELLER/
-├── data/
-│   ├── chat_history.db
-│   ├── fais_index.index
-│   ├── fais_metadata.pkl
-│   └── vehicle_inventory.json
-├── db/
-│   └── history.py
-├── generator/
-│   ├── genrate.py
-├── prompts/
-│   ├── generator.py
-│   └── guardrail.py
-├── retriver/
-│   └── embedings.py
-├── schemas/
-│   ├── input_guardrail.json
-│   └── output_guardrail.json
-├── utils/
-│   └── guardrail.py
-├── app.py
-├── config.py
-├── main.py
-├── populate_data.py
-├── README.md
-└── requirments.txt
-```
+
+
+## Maintainer
+
+**Tushar Batra**For suggestions or collaborations, feel free to:
+
+- Connect on [LinkedIn](https://www.linkedin.com/in/tushar-batra1999/)
+- Raise an issue or PR

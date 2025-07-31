@@ -36,7 +36,9 @@ GENERATION_CONFIG = (
     ),
 )
 
-client = genai.Client(api_key="AIzaSyC6_BxvOzwB24K2tj7c70CHr220kpnswjY")
+API_KEY = "#YOUR_API_KEY"
+
+client = genai.Client(api_key=API_KEY)
 
 data_path = "data/vehicle_inventory.json"
 EMBED_PATH = "data/faiss_index.index"
