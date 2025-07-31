@@ -16,8 +16,6 @@ Rules:
   c) Be a valid conversational response (e.g., greetings, acknowledgements, polite confirmations) that keeps the conversation moving.
 - The response must not include profanity, off-topic content, or vague filler without purpose.
 
-Given response: <LLM_OUTPUT>
-
 If it satisfies all criteria, respond with "PASS".
 If it violates any rule, respond with "FAIL: <short reason>".
 """

@@ -29,8 +29,7 @@ SAFETY_SETTINGS = [
 GENERATION_CONFIG = (
     types.GenerateContentConfig(
         response_mime_type="application/json",
-        thinking_config=types.ThinkingConfig(thinking_budget=500),
-        temperature=0.0,
+        temperature=0.5,
         top_p=0.8,
         max_output_tokens=20000,
         safety_settings=SAFETY_SETTINGS,

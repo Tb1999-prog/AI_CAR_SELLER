@@ -1,7 +1,7 @@
 from retriver.embedings import search_cars
 from prompts.genrator import SYSTEM_PROMPT
 import config
-
+from tenacity import retry, stop_after_attempt, wait_exponential
 
 
 
@@ -12,6 +12,7 @@ def format_car_options(results):
     return "\n".join(car_data)
 
 
+@retry(stop=stop_after_attempt(5), wait=wait_exponential(multiplier=1, min=2, max=10))
 def generate_response(user_query):
     # Step 1: Retrieve car metadata
     search_results = search_cars(user_query, top_k=5)
