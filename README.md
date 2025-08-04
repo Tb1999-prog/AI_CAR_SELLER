@@ -36,8 +36,6 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
-
-
 ### 4. Set you API_KEY
 
 set you gemini api key in config
@@ -45,7 +43,6 @@ set you gemini api key in config
 ```env
 API_KEY = "#YOUR_API_KEY"
 ```
-
 
 ---
 
@@ -159,7 +156,6 @@ This AI assistant uses a modular, retrieval-augmented generation (RAG) pipeline 
 
 * Maintains **per-session chat history** using **SQLAlchemy** for structured and persistent storage.
 * All user and assistant messages are saved in a **relational database** for future retrieval and session continuity.
-  ---------------------------------------------------------------------------------------------------------------
 
 ## Sample Conversation Log
 
@@ -200,8 +196,6 @@ Details: If you're looking for a touch more luxury, this one's a fantastic find.
 ```
 
 ---
-
-
 
 ## Maintainer
 

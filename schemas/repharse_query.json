@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "properties": {
+        "repharsed_user_query": {
+            "type": "string",
+            "description": "Updated user query based on pervious converstion"
+        },
+        "reason": {
+            "type": "string"
+        }
+    },
+    "required": ["repharsed_user_query", "reason"]
+}

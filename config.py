@@ -36,7 +36,7 @@ GENERATION_CONFIG = (
     ),
 )
 
-API_KEY = "#YOUR_API_KEY"
+API_KEY = "AIzaSyBCAZLjUAL0X1MoQpCqprGjWgX_HjoIbLQ"
 
 client = genai.Client(api_key=API_KEY)
 

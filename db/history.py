@@ -32,9 +32,8 @@ def save_history(session_id: str, history: str):
     conversation = session.query(Conversation).filter(Conversation.session_id == session_id).first()
 
     if conversation:
-        print("Old history:", conversation.history)
+        print("Existing conversation found. Updating it")
         conversation.history = history
-        print("Updated history:", conversation.history)
     else:
         print("No existing conversation. Creating new one.")
         conversation = Conversation(session_id=session_id, history=history)

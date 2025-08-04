@@ -2,6 +2,7 @@ from fastapi import FastAPI
 import uuid
 from pydantic import BaseModel
 from genrator.genrate import generate_response
+from utils.repharse_query import repharse_query
 from utils.guardrail import input_validator, output_validator
 from db.history import get_history, save_history
 
@@ -17,14 +18,18 @@ class Query(BaseModel):
 def get_car_recommendation(request: Query):
     session_id = request.session_id or str(uuid.uuid4())
     history = get_history(session_id)
-    
+    if history != "" :
+        repharsed_query = repharse_query(request.query,history)
+    else:
+        repharsed_query=request.query
     history += f"\nUser: {request.query}\n"
-
+    print(f"repharse_query:  {repharsed_query}")
     # Step 1: Validate input
-    input_valid = input_validator(history)
+    input_valid = input_validator(repharsed_query)
     if input_valid["status"] != "VALID":
         response= "⚠ Please ask a question related to car buying (e.g., price, brand, or body type)."
         history += f"\nGemini Assistant: {response}\n"
+        save_history(session_id, history)
         return {
         "response": response,
         "session_id": session_id,
@@ -32,7 +37,7 @@ def get_car_recommendation(request: Query):
     }
 
     # Step 2: Generate using Gemini
-    response = generate_response(history)
+    response = generate_response(repharsed_query)
 
     # Step 3: Output validation
     print("AI Response: ", response)
